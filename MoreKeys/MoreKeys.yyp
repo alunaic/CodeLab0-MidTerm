@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "fb842e23-7c31-4cba-b384-df7372ffff0e",
+            "Value": {
+                "id": "77a2189a-de41-4f2c-81ea-1e0b705f1895",
+                "resourcePath": "objects\\obj_lvl2_score1\\obj_lvl2_score1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ffa14fcf-b0cd-4285-b6bc-226cc353ec19",
             "Value": {
                 "id": "0852c7a8-dd73-49ce-9473-4f0d0063a1db",
